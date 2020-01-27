@@ -13,12 +13,12 @@
 
  #     h. INPUT:  Equations and two guesses (recusive guesses) total of 10 guesses
 
- #     i. PRECONDITIONS:    Assumptions for correct execution of this code
+ #     i. PRECONDITIONS:    True answer is about 2.21897221013763458
 
  #     j. OUTPUT:  New guesses/zeros
 
- #     k. POSTCONDITIONS: Assertions that describe the results of actions taken by code
-
+ #     k. POSTCONDITIONS: #####################
+ 
  #     l. ALGORITHM:  Recusive Secant Method
 
  #     m.  ERRORS:  #############

@@ -18,7 +18,7 @@
 
  #     j. OUTPUT:  Estimated Area and Error of Estimate
 
- #     k. POSTCONDITIONS: Assertions that describe the results of actions taken by code
+ #     k. POSTCONDITIONS: ###################3
 
  #     l. ALGORITHM:  Quadrature using scipy library
 
@@ -31,10 +31,6 @@
 
 
  #     o.  HISTORY: https://docs.scipy.org/doc/scipy/reference/integrate.html
-
-
-
-
 
 
 
